@@ -7,10 +7,12 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🔭 I’m currently working on **youtube-audio-player**
+- 🤝 I’m looking to collaborate with [google-sheets-db](https://github.com/rahul-jha98/google-sheets-db)
 - 🌱 I’m currently learning Typescript; 
+- 🎨 Fact: Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 Ask me about anything, I am happy to help;
-
+- 💻 I love exploring new tech stack and building cool stuffs
 
 #### Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="margin-bottom: 4px;" alt="pytorch" height="32px"/> </a> 
