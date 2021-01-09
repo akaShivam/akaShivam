@@ -24,6 +24,8 @@
 
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="32px" style="margin-bottom: 4px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></a>
 
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Kotlin" height ="32px" style="margin-bottom: 4px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="margin-bottom: 4px;" alt="firebase" height ="32px"/> </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="32px" style="margin-bottom: 4px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </a>
@@ -38,3 +40,5 @@
 
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" style="margin-bottom: 4px;" alt="git" height='32px'/> </a>
+
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" align="left" style="margin-bottom: 4px;" alt="figma" height='32px'/> </a>
