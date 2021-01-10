@@ -29,3 +29,17 @@
 <a href="https://nodejs.org" target="_blank"><img alt="Node.js" height ="32px" align='left' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
 <a href="https://git-scm.com/" target="_blank"> <img align='left' src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height='32px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img align='left' src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height='32px'/> </a>
+
+
+<details>	
+<summary><b>⚡ Github Stats</b></summary>
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=akashivam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=00000000&text_color=8B8B8B&title_color=1976d2" />
+
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+</details>
