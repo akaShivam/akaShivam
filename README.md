@@ -34,8 +34,9 @@
 <details>	
 <summary><b>⚡ Github Stats</b></summary>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=akashivam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=00000000&text_color=8B8B8B&title_color=1976d2" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashivam&show_icons=true&&count_private=true&include_all_commits=true&hide_rank=true&custom_title=akaShivam's Activity&bg_color=00000000&text_color=8B8B8B&title_color=0277bd&icon_color=0277bd" />
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashivam&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&text_color=8B8B8B&title_color=0277bd&icon_color=0277bd"/>
 </details>
 
 <details>	
