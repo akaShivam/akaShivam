@@ -39,9 +39,7 @@
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-jha98&hide_border=true&layout=compact&count_private=true&langs_count=8&bg_color=00000000&text_color=8B8B8B&title_color=4183C4&exclude_repo=Reinforcement-Learning"/>
 </details>
 
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+
 
 ![](https://raw.githubusercontent.com/akaShivam/this/asset4/generated/overview.svg)
 ![](https://raw.githubusercontent.com/akaShivam/this/asset4/generated/languages.svg)
-</details>
