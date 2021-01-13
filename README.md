@@ -42,5 +42,6 @@
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+![](https://raw.githubusercontent.com/akaShivam/this/asset4/generated/overview.svg)
+![](https://raw.githubusercontent.com/akaShivam/this/asset4/generated/languages.svg)
 </details>
