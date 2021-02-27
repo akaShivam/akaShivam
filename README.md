@@ -7,6 +7,6 @@
 
 
 # Images
-<img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/Artistify.ai/assets/logowithtext.svg" height="80">
+<img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/Artistify.ai/assets/logowithtext.svg" height="72" align="left">
 
 
