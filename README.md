@@ -7,8 +7,8 @@
 
 
 # Images
-<img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/Artistify.ai/assets/logowithtext.svg" height="42" align="left">
+<img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/Artistify.ai/assets/logowithtext.svg" height="45" align="left">
 
-<img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/sheets-database/main/docs/assets/imgs/logo.svg"  height="42" align="left">
+<img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/sheets-database/main/docs/assets/imgs/logo.svg"  height="45" align="left">
 
-<img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/PasswordKeeper/main/image_assets/Logo.svg" height="42" align="left">
+<img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/PasswordKeeper/main/image_assets/Logo.svg" height="45" align="left">
