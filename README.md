@@ -8,5 +8,7 @@
 
 # Images
 <img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/Artistify.ai/assets/logowithtext.svg" width="340" align="left">
+
 <img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/sheets-database/main/docs/assets/imgs/logo.svg"  width="380" align="left">
- <img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/PasswordKeeper/main/image_assets/Logo.svg" width="400" align="left">
+
+<img alt="logo" src="https://raw.githubusercontent.com/rahul-jha98/PasswordKeeper/main/image_assets/Logo.svg" width="400" align="left">
