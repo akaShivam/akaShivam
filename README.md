@@ -7,8 +7,8 @@
 
 
 # Images
-<img alt="logo" src="./artistify.svg" height="48" align="left">
+<img alt="logo" src="./artistify.svg" height="60" align="left">
 
-<img alt="logo" src="./sheetsdatabase.svg"  height="48" align="left">
+<img alt="logo" src="./sheetsdatabase.svg"  height="60" align="left">
 
-<img alt="logo" src="./passwordkeeper.svg" height="46" align="left">
+<img alt="logo" src="./passwordkeeper.svg" height="60" align="left">
